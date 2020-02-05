@@ -1,25 +1,20 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import WordToFlag from "./word-to-flag/WordToFlag";
 
 function App() {
+  const [word, setWord] = useState('');
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className={'flag-abc'}>
+          <h1>Flag ABC</h1>
+          <p>
+              Display your name or any other text using flags of <a href={'https://en.wikipedia.org/wiki/International_Code_of_Signals'} target={'_blank'}>International Code of Signals</a>.
+          </p>
+          <p>
+              <input onChange={(event) => setWord(event.target.value)} value={word} placeholder={'Enter your text here'}/>
+          </p>
+          <WordToFlag word={word}></WordToFlag>
+      </div>
   );
 }
 

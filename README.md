@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Display your name or any other text using flags of international code of signals:
+https://en.wikipedia.org/wiki/International_Code_of_Signals
+
 ## Available Scripts
 
 In the project directory, you can run:
