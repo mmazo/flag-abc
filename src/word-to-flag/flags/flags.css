@@ -1,5 +1,5 @@
 .ics-flag {
-    display: block;
+    display: inline-block;
     width: 100px;
     height: 100px;
     box-sizing: border-box;
