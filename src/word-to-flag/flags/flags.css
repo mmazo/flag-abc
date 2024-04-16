@@ -1,0 +1,155 @@
+.ics-flag {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-position: 0px 4px;
+    background-color: transparent;
+    background-image: url("ICS_Repeat_One.svg.png");
+    border-left: 1px solid #666;
+}
+
+.ics-a {
+    background-image: url("50px-ICS_Alpha.svg.png");
+}
+
+.ics-b {
+    background-image: url("50px-ICS_Bravo.svg.png");
+}
+
+.ics-c {
+    background-image: url("ICS_Charlie.svg.png");
+}
+
+.ics-d {
+    background-image: url("ICS_Delta.svg.png");
+}
+
+.ics-e {
+    background-image: url("ICS_Echo.svg.png");
+}
+
+.ics-f {
+    background-image: url("ICS_Foxtrot.svg.png");
+}
+
+.ics-g {
+    background-image: url("ICS_Golf.svg.png");
+}
+
+.ics-h {
+    background-image: url("ICS_Hotel.svg.png");
+}
+
+.ics-i {
+    background-image: url("ICS_India.svg.png");
+}
+
+.ics-j {
+    background-image: url("ICS_Juliet.svg.png");
+}
+
+.ics-k {
+    background-image: url("ICS_Kilo.svg.png");
+}
+
+.ics-l {
+    background-image: url("50px-ICS_Lima.svg.png");
+}
+
+.ics-m {
+    background-image: url("ICS_Mike.svg.png");
+}
+
+.ics-n {
+    background-image: url("ICS_November.svg.png");
+}
+
+.ics-o {
+    background-image: url("ICS_Oscar.svg.png");
+}
+
+.ics-p {
+    background-image: url("ICS_Papa.svg.png");
+}
+
+.ics-q {
+    background-image: url("ICS_Quebec.svg.png");
+}
+
+.ics-r {
+    background-image: url("ICS_Romeo.svg.png");
+}
+
+.ics-s {
+    background-image: url("ICS_Sierra.svg.png");
+}
+
+.ics-t {
+    background-image: url("50px-ICS_Tango.svg.png");
+}
+
+.ics-u {
+    background-image: url("ICS_Uniform.svg.png");
+}
+
+.ics-v {
+    background-image: url("ICS_Victor.svg.png");
+}
+
+.ics-w {
+    background-image: url("ICS_Whiskey.svg.png");
+}
+
+.ics-x {
+    background-image: url("ICS_X-ray.svg.png");
+}
+
+.ics-y {
+    background-image: url("ICS_Yankee.svg.png");
+}
+
+.ics-z {
+    background-image: url("ICS_Zulu.svg.png");
+}
+
+.ics-0 {
+    background-image: url("ICS_Pennant_Zero.svg.png");
+}
+
+.ics-1 {
+    background-image: url("ICS_Pennant_One.svg.png");
+}
+
+.ics-2 {
+    background-image: url("ICS_Pennant_Two.svg.png");
+}
+
+.ics-3 {
+    background-image: url("ICS_Pennant_Three.svg.png");
+}
+
+.ics-4 {
+    background-image: url("ICS_Pennant_Four.svg.png");
+}
+
+.ics-5 {
+    background-image: url("ICS_Pennant_Five.svg.png");
+}
+
+.ics-6 {
+    background-image: url("ICS_Pennant_Six.svg.png");
+}
+
+.ics-7 {
+    background-image: url("ICS_Pennant_Seven.svg.png");
+}
+
+.ics-8 {
+    background-image: url("ICS_Pennant_Eight.svg.png");
+}
+
+.ics-9 {
+    background-image: url("ICS_Pennant_Niner.svg.png");
+}

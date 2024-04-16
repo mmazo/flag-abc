@@ -1,0 +1,12 @@
+.flag-abc {
+    padding: 20px;
+    box-sizing: border-box;
+    color: #666666;
+}
+
+.flag-abc input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    font-size: 24px;
+    color: #666666;
+}
